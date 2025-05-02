@@ -1,4 +1,4 @@
-# Steps To Run
+#Steps To Run
 Step 1.
     Install pyeda package using pip (pip pyeda)
 
@@ -9,7 +9,7 @@ Step 2.
 Step 3.
     Look at results in Command Line
 
-# Project Problem
+#Project Problem
 cpts350 Symbolic graph project
 0. Make yourself be familiar with Python and pyEDA package (see the email that I sent earlier this
 week and read the example code in the documentation of the package). You may find installation
